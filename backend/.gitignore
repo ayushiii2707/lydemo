@@ -1,0 +1,5 @@
+
+scan_tmp/*
+!scan_tmp/.gitkeep
+
+*.db
